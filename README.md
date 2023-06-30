@@ -1,4 +1,5 @@
 # clima-app
+```
 ========================
  Seleccione una opción 
 ========================
@@ -7,3 +8,4 @@
 ❯ 1. Buscar cuidad 
   2. Historial 
   0. Salir 
+```
